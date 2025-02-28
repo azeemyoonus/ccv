@@ -5,7 +5,7 @@ go 1.22.2
 require (
 	github.com/Masterminds/semver/v3 v3.3.1
 	github.com/alecthomas/kong v1.7.0
-	github.com/go-git/go-git/v5 v5.13.2
+	github.com/go-git/go-git/v5 v5.12.0
 )
 
 require (
